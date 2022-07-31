@@ -1,3 +1,6 @@
+ /* Magnifying glass-source:https://codepen.io/jkantner/pen/eYJboxN */
+ /* Thought bubble-source:https://codepen.io/run-time/pen/VNRBJd */
+
  body,html{
     height: 100%;
     margin: 0;
@@ -18,7 +21,6 @@
     position: absolute;
     margin-top: 40px;
     margin-left: 60%;
-    /* ma */
   }
 
   .left_bottom{
